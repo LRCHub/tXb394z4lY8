@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TEMARI",
+  "base_artist": "Ninomae Ina'nis",
+  "createdAt": "2026-03-11T15:12:28.045779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Temari",
+      "artist": "7 Minutoz",
+      "has_synced": true,
+      "path": "select/01_Temari_7_Minutoz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pique Temari",
+      "artist": "Sidney Scaccio",
+      "has_synced": true,
+      "path": "select/02_Pique_Temari_Sidney_Scaccio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirakulu Na Now(ﾟ∀ﾟ)！ - Saki Hanami, Temari Tsukimura, Kotone Fujita ver.",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/03_Mirakulu_Na_Now(゚∀゚)!_-_Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita_ver._初星学園.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TEMARI",
+      "artist": "Ninomae Ina’nis",
+      "has_synced": false,
+      "path": "select/04_TEMARI_Ninomae_Ina’nis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Millefeuille (Tsukimura Temari Solo ver.)",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/05_Happy_Millefeuille_(Tsukimura_Temari_Solo_ver.)_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All times, All places,ChoChoiNoChoi (Saki Hanami, Temari Tsukimura, Kotone Fujita ver.)",
+      "artist": "Hatsuboshi Gakuen,Mei Osawa,Saki Hanami,Temari Tsukimura,Kotone Fujita",
+      "has_synced": false,
+      "path": "select/06_All_times,_All_places,ChoChoiNoChoi_(Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujit_Hatsuboshi_Gakuen,Mei_Osawa,Saki_Hanami,Temari_Tsukimura,Kotone_Fujita.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GAMUSHARA NI IKOU! (Saki Hanami, Temari Tsukimura, Kotone Fujita ver.)",
+      "artist": "Hatsuboshi Gakuen,SHOW,Mitsu.J,Saki Hanami,Temari Tsukimura,Kotone Fujita",
+      "has_synced": true,
+      "path": "select/07_GAMUSHARA_NI_IKOU!_(Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita_ver.)_Hatsuboshi_Gakuen,SHOW,Mitsu.J,Saki_Hanami,Temari_Tsukimura,Kotone_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TEMARI（Instrumental）",
+      "artist": "Ninomae Ina'nis",
+      "has_synced": false,
+      "path": "select/08_TEMARI(Instrumental)_Ninomae_Ina'nis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mirakulu Na Now(ﾟ∀ﾟ)！ (Saki Hanami, Temari Tsukimura, Kotone Fujita ver.)",
+      "artist": "Hatsuboshi Gakuen, Saki Hanami, Temari Tsukimura, Kotone Fujita",
+      "has_synced": true,
+      "path": "select/09_Mirakulu_Na_Now(゚∀゚)!_(Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita_ver.)_Hatsuboshi_Gakuen,_Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ENDLESS DANCE (Saki Hanami, Temari Tsukimura, Kotone Fujita ver.)",
+      "artist": "Hatsuboshi Gakuen, Saki Hanami, Temari Tsukimura, Kotone Fujita",
+      "has_synced": true,
+      "path": "select/10_ENDLESS_DANCE_(Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita_ver.)_Hatsuboshi_Gakuen,_Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Howling over the World (Saki Hanami, Temari Tsukimura, Kotone Fujita ver.)",
+      "artist": "Hatsuboshi Gakuen, Karasuyasabou, Saki Hanami, Temari Tsukimura, Kotone Fujita",
+      "has_synced": true,
+      "path": "select/11_Howling_over_the_World_(Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita_ver.)_Hatsuboshi_Gakuen,_Karasuyasabou,_Saki_Hanami,_Temari_Tsukimura,_Kotone_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "temari",
+      "artist": "ninomae inanis",
+      "has_synced": false,
+      "path": "select/12_temari_ninomae_inanis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEMARI",
+      "artist": "Ninomae Ina'nis",
+      "has_synced": false,
+      "path": "select/pl_01_TEMARI_Ninomae_Ina'nis.txt"
+    }
+  ]
+}
